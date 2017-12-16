@@ -38,7 +38,7 @@ CONSUMER_SECRET = 'xxxx'
 ACCESS_KEY = 'xxxx'
 ACCESS_SECRET = 'xxxx'
 
-just remove the exes and place the correspoding code within the parenthesis.
+just remove the exes and place the correspoding code within the quotes.
 
 
 
