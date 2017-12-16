@@ -23,7 +23,7 @@ disclaimer = ('Please be aware, none of this information will be shared with any
               'AND WILL ONLY BE USED FOR THAT PURPOSE.'
               'this message will display for 15 seconds.') # for the non tech savy.
 turtle.write(disclaimer, False, align='center', font=('Arial', 12, 'bold')) # disclaimer text, alignement, and text def.
-time.sleep(15) # display the message for 15 seconds.
+sleep(15) # display the message for 15 seconds.
 
 # the reason for string, is because turtle's primary input's is for float, which makes API keys difficult to handle, because of the
 # following .0
