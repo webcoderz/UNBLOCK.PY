@@ -16,7 +16,6 @@ except ImportError as whoops:
 
 screen = turtle.Screen() # setting up screen ratio's
 screen.setup(1000,1000)
-screen.background('White') # can be changed to a background picture with screen.bgpic('')
 
 disclaimer = ('Please be aware, none of this information will be shared with anyone, '
               'this is to help you unblock your access to twitter.'
