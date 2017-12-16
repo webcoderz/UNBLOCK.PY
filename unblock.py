@@ -8,7 +8,7 @@ try:
   import twitter
   import json
   import sys
-  from time import sleep, time
+  from time import sleep
 except ImportError as whoops:
   print("Sorry, one of the required packages did not import properly. try running pip install with the package name", str(whoops))
   sleep(8) # display error message so they can gather the needed info, can add in logging, and log it to a file.
