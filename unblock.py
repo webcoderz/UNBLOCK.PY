@@ -11,7 +11,7 @@ try:
   from time import sleep, time
 except ImportError as whoops:
   print("Sorry, one of the required packages did not import properly. try running pip install with the package name", str(whoops))
-  time.sleep(8) # display error message so they can gather the needed info, can add in logging, and log it to a file.
+  sleep(8) # display error message so they can gather the needed info, can add in logging, and log it to a file.
   sys.exit(1) # because of error with importing, set exit status as 1 because of an error.
 
 screen = turtle.Screen() # setting up screen ratio's
