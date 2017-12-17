@@ -43,3 +43,11 @@ just remove the exes and place the correspoding code within the quotes.
 
 
 ONCE THE KEYS ARE ADDED, RUN THIS INSIDE A FOLDER, A FILE SHOULD BE GENERATED, ONE THAT IS ALL OF THE JSON USER ID OF ALL THE USERS IN YOUR BLOCK LIST, WHEN THE  FILE AUTOMATICALLY RUNS BACK THROUGH THE SCRIPT AND IS FED INTO TWITTER API AND IT PRINTS THE USER ID OF THE SUCCESSFULLY UNBLOCKED USER.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Update 12/16/17~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+GUI FULLY FUNCTIONAL NOW JUST DOWNLOAD PYTHON 3 ON YOUR MACHINE , THEN IN A TERMINAL OR COMMAND PROMPT PIP INSTALL PYTHON-TWITTER
+AND THEN JUST python3 unblock.py in a terminal or window inside the extracted folder.
+
+~~~~YOU PUT YOU API KEYS IN THERE~~~~~
+
