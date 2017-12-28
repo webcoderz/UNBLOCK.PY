@@ -3,7 +3,9 @@ TWITTER UNBLOCK SCRIPT I FOUND THAT UNBLOCKS USERS by JEREMY LOW
 
 requires python 3 and python twitter
 
-pip install python-twitter
+instructions to download python 3 are here : https://www.python.org/
+
+open terminal or shell and type: pip install python-twitter
 
 
 ONCE YOU GET EVERYTHING SITUATED TO RUN, LOCATE/ GENERATE NEW API KEYS HERE https://apps.twitter.com/
