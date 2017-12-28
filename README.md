@@ -11,7 +11,7 @@ ONCE YOU GET EVERYTHING SITUATED TO RUN, LOCATE/ GENERATE NEW API KEYS HERE http
 
 : Create your Twitter App
 
-a. After you sign in, you’ll be taken to your application creation page. Be sure to fill in your application’s name, a description about your application and your Ning Network’s URL in the WebSite field. In the Callback URL field, enter your Ning Network’s URL again. This tells your app to return to this location after authenticating.
+a. After you sign in, you’ll be taken to your application creation page. Be sure to fill in your application’s name, a description about your application and your applications URL in the WebSite field. In the Callback URL field, enter your application's URL again. This tells your app to return to this location after authenticating.
 
 b. Read and agree to Twitter’s “Developer Rules Of The Road”. Check the box next to “Yes, I agree”.
 
