@@ -41,10 +41,10 @@ print(ACCESS_KEY)
 print(ACCESS_SECRET)
 
 # convert to int, see if that cleans up some of this and makes it passable to OAuth.
-CONSUMER_KEY = int(CONSUMER_KEY)
-CONSUMER_SECRET = int(CONSUMER_SECRET)
-ACCESS_KEY = int(ACCESS_KEY)
-ACCESS_SECRET = int(ACCESS_SECRET)
+#CONSUMER_KEY = int(CONSUMER_KEY)
+#CONSUMER_SECRET = int(CONSUMER_SECRET)
+#ACCESS_KEY = int(ACCESS_KEY)
+#ACCESS_SECRET = int(ACCESS_SECRET)
 
 # debugging purposes.
 print(CONSUMER_KEY)
