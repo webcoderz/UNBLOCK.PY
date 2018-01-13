@@ -25,7 +25,7 @@ Description: Give a description of your app
 
 WebSite: Enter in the website for example, http://yournetworkname.com  (IF YOU DONT KNOW WHAT THIS MEANS JUST PUT ANYTHING)
 
-Callback URL: Enter in the web address of your callback, for example http://yournetworkname.com  (IF YOU DONT KNOW WHAT THIS MEANS JUST PUT ANYTHING)
+Callback URL: Enter in the web address of your callback, for example http://yournetworkname.com  (IF YOU DONT KNOW WHAT THIS MEANS YOU CAN LEAVE BLANK)
 
 d. Doing this will take you to your Twitter app’s detail page. Under the OAuth settings, you’ll see that your app’s Access level is set to “Read-only” by default. To enable members to post to Twitter, click on the Settings tab at the top to change the Access level from “Read-only” to “Read and Write”.  Also check the box next to where it reads, “Allow this application to be used to Sign In with Twitter.”
 
