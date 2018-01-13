@@ -22,7 +22,7 @@ except ImportError as whoops:
     # sys.exit(1) # because of error with importing, set exit status as 1 because of an error.
 
 # screen.background('White') # can be changed to a background picture with screen.bgpic('')
-os.system('clear')
+#os.system('clear')
 print('Please be aware, none of this information will be shared with anyone,\n'
         'this is to help you unblock your access to twitter.\n'
         'AND WILL ONLY BE USED FOR THAT PURPOSE.\n')
