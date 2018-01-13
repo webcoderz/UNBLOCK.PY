@@ -5,7 +5,7 @@ requires python 3 and python twitter
 
 instructions to download python 3 are here : https://www.python.org/
 
-open terminal or shell and type: pip3 install python-twitter
+open terminal or shell and type: pip3 install  oauth2 , python-twitter
 
 
 ONCE YOU GET EVERYTHING SITUATED TO RUN, LOCATE/ GENERATE NEW API KEYS HERE https://apps.twitter.com/
